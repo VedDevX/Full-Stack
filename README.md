@@ -11,7 +11,7 @@ Welcome to my **Full Stack Projects** repository! This repo is dedicated to orga
 
 ### [1. HTML & CSS](./Full%20Stack/01.%20HTML_%26_CSS)  
 Projects focused on building responsive websites, layouts, and UI components using HTML and CSS.  
-- [**Nebulo**](https://github.com/VedDevX/Full-Stack-/tree/main/Full%20Stack/01.%20HTML_%26_CSS/01.%20Nebulo) – A modern cloud hosting website inspired by "Loruki", rebranded with semantic HTML and responsive CSS.  
+- [**Nebulo**](https://github.com/VedDevX/Full-Stack-/tree/main/Full%20Stack/01.%20HTML_%26_CSS/01.%20Nebulo) – A modern cloud hosting website inspired by "Loruki", rebranded with semantic HTML and responsive CSS. [**Live Preview**](https://nebulo-gz79dkp78-vedant-jadhavs-projects-f8df9b4b.vercel.app/) 
 
 ---
 
